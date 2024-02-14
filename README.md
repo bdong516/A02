@@ -1,7 +1,5 @@
 ## A02 IS117-102 Bd293 NJIT SPRING 24
 
-### PART 0: Installing **Git**
-
 ##### How to Install **Git**
 - Download the installer from the official **Git** website (https://git-scm.com/) and follow the installation instructions appropriate for your operating system.
 - After **Git** is installed you'll need to configure it with your name and email address. To do that open the terminal and run the following commands:
