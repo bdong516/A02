@@ -44,7 +44,7 @@ git push origin <branch_name>
   https://account.jetbrains.com/licenses.
 4. Follow the instructions to install WebStorm on your computer.
 ##### Setting up Git Integration in WebStorm
-1. Open WebStorm
+1. Open WebStorm.
 2. Go to File > Settings (or WebStorm > Preferences on macOS).
 3. In the Settings/Preferences dialog, navigate to Version Control > **Git**.
 4.  Check if **Git** is installed. If not, install it and specify the path to the
