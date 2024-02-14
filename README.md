@@ -38,34 +38,34 @@ git push origin <branch_name>
 
 ### PART 1: How to install and setup WebStorm
 
-- Submit a request for a free educational license at https://www.jetbrains.com/shop/eform/students
-- Use the *"Offical document"* option when applying for a license
-- After getting a License ID, download the WebStorm software
+1. Submit a request for a free educational license at https://www.jetbrains.com/shop/eform/students
+2. Use the *"Offical document"* option when applying for a license
+3. After getting a License ID, download the WebStorm software
   https://account.jetbrains.com/licenses
-- Follow the instructions to install WebStorm on your computer
+4. Follow the instructions to install WebStorm on your computer
 ##### Setting up Git Integration in WebStorm
-- Open WebStorm
-- Go to File > Settings (or WebStorm > Preferences on macOS).
-- In the Settings/Preferences dialog, navigate to Version Control > **Git**.
-- Check if **Git** is installed. If not, install it and specify the path to the
+1. Open WebStorm
+2. Go to File > Settings (or WebStorm > Preferences on macOS).
+3. In the Settings/Preferences dialog, navigate to Version Control > **Git**.
+4.  Check if **Git** is installed. If not, install it and specify the path to the
   **Git** executable.
-- Click Apply and then OK to save the changes.
+5. Click Apply and then OK to save the changes.
 ##### Cloning a GitHub Repository
-- Open WebStorm
-- Go to VCS > Get from Version Control > **Git**.
-- In the URL field, enter the URL of the **GitHub repository** you want to **clone**.
-- Choose a directory for the local **repository**.
-- Click **Clone**.
+1. Open WebStorm
+2. Go to VCS > Get from Version Control > **Git**.
+3. In the URL field, enter the URL of the **GitHub repository** you want to **clone**.
+4. Choose a directory for the local **repository**.
+5. Click **Clone**.
 ##### Making Changes and Commits
-- Open the project in WebStorm.
-- Make changes to the files in the project.
-- Go to VCS > **Git** > **Commit** File
-- Enter a **commit** message describing the changes.
-- Click **Commit** to **commit** the changes to your local **repository**.
+1. Open the project in WebStorm.
+2. Make changes to the files in the project.
+3. Go to VCS > **Git** > **Commit** File
+4. Enter a **commit** message describing the changes.
+5. Click **Commit** to **commit** the changes to your local **repository**.
 ##### Pushing Changes to GitHub
-- After committing your changes, go to VCS > **Git** > **Push**....
-- Make sure the correct **branch** is selected.
-- Click **Push** to **push** your changes to the **remote GitHub repository**.
+1. After committing your changes, go to VCS > **Git** > **Push**
+2. Make sure the correct **branch** is selected.
+3. Click **Push** to **push** your changes to the **remote GitHub repository**.
 ### PART 2: Glossary
 - **Branch:** A new/separate version of a **repository**, allowing you to work on different features or fixes simultaneously.
 - **Clone:** Creates a local copy of a **repository** from a **remote** source.
